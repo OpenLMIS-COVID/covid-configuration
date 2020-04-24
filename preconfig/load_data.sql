@@ -1,0 +1,1 @@
+-- copy reference data's configuration data
