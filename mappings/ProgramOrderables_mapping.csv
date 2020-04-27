@@ -1,0 +1,7 @@
+from,to,type,entityName,defaultValue
+productCode,,SKIP,,
+category,orderableDisplayCategoryId,TO_ID_BY_CODE,OrderableDisplayCategory,
+dosesPerPatient,dosesPerPatient,DIRECT,,
+active,active,USE_DEFAULT,,TRUE
+fullSupply,fullSupply,USE_DEFAULT,,TRUE
+pricePerPack,pricePerPack,DIRECT,,

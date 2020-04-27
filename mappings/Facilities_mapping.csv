@@ -1,0 +1,12 @@
+from,to,type,entityName,defaultValue
+code,code,DIRECT,,
+name,name,DIRECT,,
+description,description,DIRECT,,
+geographicZone,geographicZone,TO_OBJECT_BY_CODE,GeographicZone,
+facilityType,type,TO_OBJECT_BY_CODE,FacilityType,
+facilityOperator,operator,TO_OBJECT_BY_CODE,FacilityOperator,
+active,active,USE_DEFAULT,,TRUE
+goLiveDate,goLiveDate,DIRECT_DATE,,
+enabled,enabled,USE_DEFAULT,,TRUE
+openLMISAccessible,openLmisAccessible,USE_DEFAULT,,TRUE
+supportedPrograms,supportedPrograms,USE_DEFAULT,,COVID

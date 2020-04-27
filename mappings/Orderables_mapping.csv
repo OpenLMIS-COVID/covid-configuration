@@ -1,0 +1,8 @@
+from,to,type,entityName,defaultValue
+productCode,productCode,DIRECT,,
+name,fullProductName,DIRECT,,
+description,description,DIRECT,,
+packRoundingThreshold,packRoundingThreshold,USE_DEFAULT,,1
+packSize,netContent,DIRECT,,
+roundToZero,roundToZero,USE_DEFAULT,,FALSE
+dispensable,dispensable,TO_OBJECT,,

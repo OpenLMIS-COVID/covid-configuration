@@ -1,0 +1,6 @@
+from,to,type,entityName,defaultValue
+Equipment code,equipmentCode,DIRECT,,
+Type,type,DIRECT,,
+Manufacturer,manufacturer,DIRECT,,
+Model,model,DIRECT,,
+Item Code (auto generated),,SKIP,,

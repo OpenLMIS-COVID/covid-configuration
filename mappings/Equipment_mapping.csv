@@ -1,0 +1,12 @@
+from,to,type,entityName,defaultValue
+id,id,DIRECT,,
+facilityCode,facility,TO_OBJECT_BY_CODE,Facility,
+catalogItem,catalogItem,FIND_CATALOG_ITEM_TO_OBJECT,CatalogItem,
+programCode,program,USE_DEFAULT,,COVID
+serialNumber,equipmentTrackingId,DIRECT,,
+referenceName,referenceName,DIRECT,,
+yearOfInstallation,yearOfInstallation,USE_DEFAULT,,2020
+functionalStatus,functionalStatus,USE_DEFAULT,,FUNCTIONING
+reasonNotWorkingOrNotInUse,reasonNotWorkingOrNotInUse,USE_DEFAULT,,null
+utilization,utilization,USE_DEFAULT,,ACTIVE
+additionalNotes,additionalNotes,DIRECT,,
