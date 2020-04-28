@@ -1,0 +1,23 @@
+name,startDate,endDate,description,processingSchedule
+May2020 Week1,2020-05-04,2020-05-10,Processing period for May 2020 Week 1,WPS
+May2020 Week2,2020-05-11,2020-05-17,Processing period for May 2020 Week 2,WPS
+May2020 Week3,2020-05-18,2020-05-24,Processing period for May 2020 Week 3,WPS
+May2020 Week4,2020-05-25,2020-05-31,Processing period for May 2020 Week 4,WPS
+Jun2020 Week1,2020-06-01,2020-06-07,Processing period for June 2020 Week 1,WPS
+Jun2020 Week2,2020-06-08,2020-06-14,Processing period for June 2020 Week 2,WPS
+Jun2020 Week3,2020-06-15,2020-06-21,Processing period for June 2020 Week 3,WPS
+Jun2020 Week4,2020-06-22,2020-06-28,Processing period for June 2020 Week 4,WPS
+Jul2020 Week1,2020-06-29,2020-07-05,Processing period for July 2020 Week 1,WPS
+Jul2020 Week2,2020-07-06,2020-07-12,Processing period for July 2020 Week 2,WPS
+Jul2020 Week3,2020-07-13,2020-07-19,Processing period for July 2020 Week 3,WPS
+Jul2020 Week4,2020-07-20,2020-07-26,Processing period for July 2020 Week 4,WPS
+Jul2020 Week5,2020-07-27,2020-08-02,Processing period for July 2020 Week 5,WPS
+Aug2020 Week1,2020-08-03,2020-08-09,Processing period for August 2020 Week 1,WPS
+Aug2020 Week2,2020-08-10,2020-08-16,Processing period for August 2020 Week 2,WPS
+Aug2020 Week3,2020-08-17,2020-08-23,Processing period for August 2020 Week 3,WPS
+Aug2020 Week4,2020-08-24,2020-08-30,Processing period for August 2020 Week 4,WPS
+Sep2020 Week1,2020-08-31,2020-09-06,Processing period for September 2020 Week 1,WPS
+Sep2020 Week2,2020-09-07,2020-09-13,Processing period for September 2020 Week 2,WPS
+Sep2020 Week3,2020-09-14,2020-09-20,Processing period for September 2020 Week 3,WPS
+Sep2020 Week4,2020-09-21,2020-09-27,Processing period for September 2020 Week 4,WPS
+Sep2020 Week5,2020-09-28,2020-10-04,Processing period for September 2020 Week 5,WPS
