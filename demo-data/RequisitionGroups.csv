@@ -1,0 +1,3 @@
+code,name,description,SupervisoryNode,memberFacilities,requisitionGroupProgramSchedules
+RGD01,RG for Balaka District,RG for Balaka District,SND01,"[FAC01,FAC02]",RGPS1
+RGD02,RG for Lilongwe District,RG for Lilongwe District,SND02,"[FAC04,FAC05,FAC06]",RGPS1
