@@ -1,3 +1,10 @@
 code,name,description,geographicZone,facilityType,facilityOperator,goLiveDate
-FAC01,Facility1,,malaw,privC,G,1/5/2020
-FAC02,Facilit2,,cwes,pricH,pvt,
+FAC01,Facility1,,BLK,privC,G,1/5/2020
+FAC02,Facility2,,BLK,privH,pvt,
+FAC03,Facility3,,BLK,warehouse,,
+BLK,Facility BLK,,BLK,dist,G,
+FAC04,Facility4,,LL,centH,G,
+FAC05,Facility5,,LL,privC,pvt,
+FAC06,Facility6,,LL,privH,pvt,
+FAC07,Facility7,,LL,warehouse,,
+LL,Facility LL,,LL,dist,G,

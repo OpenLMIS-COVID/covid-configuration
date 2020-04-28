@@ -2,4 +2,4 @@ from,to,type,entityName,defaultValue
 code,code,DIRECT,,
 name,name,DIRECT,,
 description,description,DIRECT,,
-active,active,USE_DEFAULT,,TRUE
+active,active,USE_DEFAULT,,true

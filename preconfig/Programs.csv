@@ -1,2 +1,2 @@
 code,name,description,active,periodSkippable,showNonFullSupplyTab,enableDatePhysicalStockCountCompleted,skipAuthorization
-COVID,COVID,COVID Program,TRUE,TRUE,TRUE,FALSE,TRUE
+COVID,COVID,COVID Program,true,true,true,false,true

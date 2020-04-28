@@ -1,5 +1,6 @@
 code,name,description
 warehouse,Warehouse,
 privC,Clinic,
-pricH,Private Hospital,
-CentH,Central Hospital,
+privH,Private Hospital,
+centH,Central Hospital,
+dist,District,

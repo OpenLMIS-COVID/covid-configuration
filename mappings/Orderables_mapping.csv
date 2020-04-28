@@ -4,5 +4,5 @@ name,fullProductName,DIRECT,,
 description,description,DIRECT,,
 packRoundingThreshold,packRoundingThreshold,USE_DEFAULT,,1
 packSize,netContent,DIRECT,,
-roundToZero,roundToZero,USE_DEFAULT,,FALSE
+roundToZero,roundToZero,USE_DEFAULT,,false
 dispensable,dispensable,TO_OBJECT,,

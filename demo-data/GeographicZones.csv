@@ -1,3 +1,10 @@
 code,name,level,parent
 nigeria,Nigeria,country,
+malaw,Malawi,country,
 lagos,Lagos,state,nigeria
+seas,South East,state,malaw
+cwes,Central West,state,malaw
+BLKd,Balaka District,district,seas
+BLK,Balaka,municipality,BLKd
+LLd,Lilongwe District,district,cwes
+LL,Lilongwe,municipality,LLd
