@@ -1,0 +1,4 @@
+from,to,type,entityName,defaultValue
+code,code,USE_DEFAULT,,WPS
+name,name,USE_DEFAULT,,WPS
+description,description,USE_DEFAULT,,Weekly Schedule
