@@ -1,7 +1,7 @@
 from,to,type,entityName,defaultValue
 code,code,DIRECT,,
 name,name,DIRECT,,
-name,description,DIRECT,,
-supervisoryNode,supervisoryNode,TO_OBJECT_BY_CODE,SupervisoryNode,
-memberFacilities,memberFacilities,TO_ARRAY_BY_CODE,Facility,
-requisitionGroupProgramSchedules,requisitionGroupProgramSchedules,TO_ARRAY_FROM_FILE_BY_CODE,RequisitionGroupProgramSchedules.csv,
+,description,USE_DEFAULT,,RG for COVID
+code,supervisoryNode,TO_OBJECT_BY_CODE,SupervisoryNode,
+code,memberFacilities,TO_ARRAY_FROM_FILE_BY_GEOGRAPHIC_ZONE,Facilities.csv,
+,requisitionGroupProgramSchedules,USE_DEFAULT,,RGPS1
