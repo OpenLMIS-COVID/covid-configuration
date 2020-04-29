@@ -7,7 +7,7 @@ RA5,Stock Viewer,COVID,BLK,null
 RA6,District Storeroom Manager,COVID,BLK,null
 RA7,Order Manager,null,null,FAC03
 RA8,Equipment Viewer,COVID,BLK,null
-RA9,PoD Manager,null,null,FAC03
+RA9,PoD Manager,COVID,BLK,null
 RA10,Equipment Catalog Manager,null,null,null
 RA11,Shipment Manager,null,null,FAC03
 RA12,Storeroom Manager,COVID,LL,null
@@ -19,5 +19,5 @@ RA17,Stock Viewer,COVID,LL,null
 RA18,Order Manager,null,null,FAC07
 RA19,Equipment Catalog Manager,null,null,null
 RA20,Equipment Viewer,COVID,LL,null
-RA21,PoD Manager,null,null,FAC07
+RA21,PoD Manager,COVID,LL,null
 RA22,Shipment Manager,null,null,FAC07
