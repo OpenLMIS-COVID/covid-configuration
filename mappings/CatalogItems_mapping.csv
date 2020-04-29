@@ -1,5 +1,5 @@
 from,to,type,entityName,defaultValue
 equipmentCode,equipmentCode,DIRECT,,
-Type,type,DIRECT,,
-Manufacturer,manufacturer,DIRECT,,
-Model,model,DIRECT,,
+type,type,DIRECT,,
+manufacturer,manufacturer,DIRECT,,
+model,model,DIRECT,,
