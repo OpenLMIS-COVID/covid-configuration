@@ -2,7 +2,7 @@ from,to,type,entityName,defaultValue
 id,id,DIRECT,,
 facilityCode,facility,TO_OBJECT_BY_CODE,Facility,
 catalogItem,catalogItem,FIND_CATALOG_ITEM_TO_OBJECT,CatalogItem,
-programCode,program,USE_DEFAULT,,COVID
+programCode,program,TO_OBJECT_FROM_FILE_BY_CODE,Programs.csv,
 serialNumber,equipmentTrackingId,DIRECT,,
 referenceName,referenceName,DIRECT,,
 yearOfInstallation,yearOfInstallation,USE_DEFAULT,,2020
