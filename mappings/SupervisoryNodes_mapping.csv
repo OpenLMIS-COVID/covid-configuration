@@ -4,4 +4,4 @@ code,facility,TO_OBJECT_BY_CODE,Facility,
 name,name,DIRECT,,
 ,description,USE_DEFAULT,,District Approval for COVID
 parent,parentNode,USE_DEFAULT,,null
-,childNodes,TO_ARRAY_BY_CODE,SupervisoryNode,
+code,childNodes,TO_ARRAY_BY_CODE,SupervisoryNode,
