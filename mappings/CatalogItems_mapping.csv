@@ -1,5 +1,9 @@
 from,to,type,entityName,defaultValue
+,fromPqsCatalog,USE_DEFAULT,,true
 equipmentCode,equipmentCode,DIRECT,,
 type,type,DIRECT,,
 manufacturer,manufacturer,DIRECT,,
 model,model,DIRECT,,
+,energySource,USE_DEFAULT,,ELECTRIC
+,storageTemperature,USE_DEFAULT,,ZERO
+,archived,USE_DEFAULT,,false
