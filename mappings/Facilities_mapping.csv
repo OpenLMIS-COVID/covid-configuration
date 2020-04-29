@@ -9,4 +9,4 @@ active,active,USE_DEFAULT,,true
 goLiveDate,goLiveDate,DIRECT_DATE,,
 enabled,enabled,USE_DEFAULT,,true
 openLMISAccessible,openLmisAccessible,USE_DEFAULT,,true
-supportedPrograms,supportedPrograms,USE_DEFAULT,,[COVID]
+,supportedPrograms,TO_ARRAY_FROM_FILE,SupportedPrograms.csv,
