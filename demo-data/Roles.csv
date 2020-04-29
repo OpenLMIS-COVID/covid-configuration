@@ -1,5 +1,5 @@
 name,description,rights
-Stock Manager,"Can view stock cards, edit stock inventories and adjust stock.","[STOCK_SOURCES_MANAGE,STOCK_DESTINATIONS_MANAGE,STOCK_CARD_LINE_ITEM_REASONS_MANAGE,STOCK_ORGANIZATIONS_MANAGE,STOCK_INVENTORIES_EDIT,STOCK_ADJUST,STOCK_CARDS_VIEW]"
+Stock Manager,"Can view stock cards, edit stock inventories and adjust stock.","[STOCK_INVENTORIES_EDIT,STOCK_ADJUST,STOCK_CARDS_VIEW]"
 Storeroom Manager,"Can create, view, authorize and delete requisitions.","[REQUISITION_CREATE,REQUISITION_VIEW,REQUISITION_DELETE,REQUISITION_AUTHORIZE]"
 Equipment Manager,Can view and edit equipment.,"[CCE_INVENTORY_VIEW,CCE_INVENTORY_EDIT]"
 Report Viewer,Can view reports.,[REPORTS_VIEW]
@@ -8,5 +8,5 @@ District Storeroom Manager,Can view and approve requisitions.,"[REQUISITION_VIEW
 Order Manager,Can view and edit orders.,"[ORDERS_VIEW,ORDERS_EDIT]"
 Equipment Viewer,Can view equipment inventory.,[CCE_INVENTORY_VIEW]
 PoD Manager,Can view and manage proofs of delivery.,"[PODS_VIEW,PODS_MANAGE]"
-Equipment Catalog Manager,Can view and manage equipment catalog.,"[CCE_MANAGE,CCE_INVENTORY_VIEW,CCE_INVENTORY_EDIT]"
+Equipment Catalog Manager,Can view and manage equipment catalog.,[CCE_MANAGE]
 Shipment Manager,Can view and edit shipments.,"[SHIPMENTS_VIEW,SHIPMENTS_EDIT]"
