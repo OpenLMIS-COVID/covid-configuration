@@ -1,0 +1,13 @@
+username,firstName,lastName,email,homeFacilityCode,active,verified,loginRestricted,allowNotify,roleAssignments
+hsrmanager1,Alan,Ehrenfreund,,BLK,TRUE,TRUE,FALSE,TRUE,"[RA1,RA2,RA3,RA4]"
+hofficer1,Felix,Gwaza,,BLK,TRUE,TRUE,TRUE,TRUE,"[RA5,RA6,RA7,RA8]"
+lbmanager1,Lina,Muge,,BLK,TRUE,TRUE,TRUE,TRUE,"[RA1,RA2,RA4,RA5,RA8]"
+wmanager1,Kennedy,Banda,,BLK,TRUE,TRUE,TRUE,TRUE,"[RA7,RA9,RA4,RA5,RA8]"
+npharmacist1,Joses,Salazar,,BLK,TRUE,TRUE,TRUE,TRUE,"[RA8,RA5,RA4]"
+nstakeholder1,Tito,Chaves,,BLK,TRUE,TRUE,TRUE,TRUE,"[RA8,RA5,RA4]"
+hsrmanager2,Adriano,Pereira,,LL,TRUE,TRUE,TRUE,TRUE,"[RA14,RA12,RA15,RA16]"
+hofficer2,Clara,Rosario,,LL,TRUE,TRUE,TRUE,TRUE,"[RA17,RA13,RA18,RA20]"
+lbmanager2,Angeslica,Vargas,,LL,TRUE,TRUE,TRUE,TRUE,"[RA14,RA12,RA16,RA17,RA20]"
+wmanager2,Diogo,Coelho,,LL,TRUE,TRUE,TRUE,TRUE,"[RA18,RA21,RA16,RA17,RA20]"
+npharmacist2,Toni,Lobo,,LL,TRUE,TRUE,TRUE,TRUE,"[RA20,RA17,RA16]"
+nstakeholder2,Carlos,Ferreira,,LL,TRUE,TRUE,TRUE,TRUE,"[RA20,RA17,RA16]"
