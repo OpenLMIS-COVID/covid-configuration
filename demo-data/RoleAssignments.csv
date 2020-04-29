@@ -1,0 +1,23 @@
+code,roleName,programCode,supervisoryNodeCode,warehouseCode
+RA1,Stock Manager,COVID,BLK,null
+RA2,Storeroom Manager,COVID,BLK,null
+RA3,Equipment Manager,COVID,BLK,null
+RA4,Report Viewer,COVID,BLK,null
+RA5,Stock Viewer,COVID,BLK,null
+RA6,District Storeroom Manager,COVID,BLK,FAC03
+RA7,Order Manager,COVID,BLK,null
+RA8,Equipment Viewer,COVID,BLK,null
+RA9,PoD Manager,COVID,BLK,null
+RA10,Equipment Catalog Manager,COVID,BLK,null
+RA11,Shipment Manager,COVID,BLK,null
+RA12,Storeroom Manager,COVID,LL,null
+RA13,District Storeroom Manager,COVID,LL,FAC07
+RA14,Stock Manager,COVID,LL,null
+RA15,Equipment Manager,COVID,LL,null
+RA16,Report Viewer,COVID,LL,null
+RA17,Stock Viewer,COVID,LL,null
+RA18,Order Manager,COVID,LL,null
+RA19,Equipment Catalog Manager,COVID,LL,null
+RA20,Equipment Viewer,COVID,LL,null
+RA21,PoD Manager,COVID,LL,null
+RA22,Shipment Manager,COVID,LL,null
