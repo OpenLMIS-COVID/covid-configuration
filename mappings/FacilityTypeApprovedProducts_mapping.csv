@@ -1,7 +1,7 @@
 from,to,type,entityName,defaultValue
 facilityType,facilityType,TO_OBJECT_BY_CODE,FacilityType,
 orderable,orderable,TO_OBJECT_BY_PRODUCT_CODE,Orderable,
-,program,USE_DEFAULT,,COVID
+active,program,TO_OBJECT_FROM_FILE_BY_ACTIVE,Programs.csv,
 maxPeriodsOfStock,maxPeriodsOfStock,DIRECT,,
 minPeriodsOfStock,minPeriodsOfStock,DIRECT,,
 emergencyOrderPoint,emergencyOrderPoint,DIRECT,,
