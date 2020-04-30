@@ -1,5 +1,5 @@
 from,to,type,entityName,default
-username,referenceDataUserId,TO_ID_BY_USERNAME,,
+username,referenceDataUserId,TO_ID_BY_USERNAME,User,
 phoneNumber,phoneNumber,DIRECT,,
 email,email,DIRECT,,
 allowNotify,allowNotify,DIRECT,,
