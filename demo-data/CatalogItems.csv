@@ -1,9 +1,9 @@
 equipmentCode,type,manufacturer,model,itemCode
-E3/88-M,Ventilator,B Medical,RCW 50 EG,E3/88-M || RCW 50 EG
-E003/002,Oximeter,Haier,HBD 116, E003/002 || HBD 116
-E003/023,Ventilator,Vestfrost,MF 314, E003/023 || MF 314
-E003/004,Oximeter,Haier,HBC-70,E003/004 || HBC-70
-E003/014,Stethoscope,B Medical,TCW 2000 AC,E003/014 || TCW 2000 AC
-E003/051,ICU Bed,Zero,ZLF 30 AC,E003/051 || ZLF 30 AC
-E003/006,ICU Bed,Sibir,V 170 KE,E003/006 || V 170 KE
-E003/009,General Bed,Vestfrost,MKS 044,E003/009 || MKS 044
+E3/88-M,Ventilator,B Medical,RCW 50 EG,E3/88-M||RCW 50 EG
+E003/002,Oximeter,Haier,HBD 116,E003/002||HBD 116
+E003/023,Ventilator,Vestfrost,MF 314,E003/023||MF 314
+E003/004,Oximeter,Haier,HBC-70,E003/004||HBC-70
+E003/014,Stethoscope,B Medical,TCW 2000 AC,E003/014||TCW 2000 AC
+E003/051,ICU Bed,Zero,ZLF 30 AC,E003/051||ZLF 30 AC
+E003/006,ICU Bed,Sibir,V 170 KE,E003/006||V 170 KE
+E003/009,General Bed,Vestfrost,MKS 044,E003/009||MKS 044
