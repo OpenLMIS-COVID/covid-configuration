@@ -1,6 +1,6 @@
 from,to,type,entityName,defaultValue
 productCode,,SKIP,,
-program,program,USE_DEFAULT_PROGRAM,,COVID
+program,programId,DEFAULT_TO_ID_BY_CODE,Program,COVID
 category,orderableDisplayCategoryId,TO_ID_BY_CODE,OrderableDisplayCategory,
 dosesPerPatient,dosesPerPatient,DIRECT,,
 active,active,USE_DEFAULT,,true

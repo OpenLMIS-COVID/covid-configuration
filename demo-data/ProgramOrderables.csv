@@ -1,0 +1,4 @@
+productCode,name,description,packRoundingThreshold,packSize,roundToZero,dispensable,category,dosesPerPatient,pricePerPack
+AA000900,Acyclovir 400mg,"Acyclovir 400mg, tablets",1,1000,false,dispensingUnit:Tablet,AA,1,50
+AA003350,Sodium bicarbomirate 500mg (BicuNorin),Sodium bicarbomirate 500mg (BicuNorin),1,100,false,dispensingUnit:Pack of 100,AA,1,90
+AA003600,Amlodipine 10mg,"Amlodipine 10mg, tablets",1,100,false,dispensingUnit:Tablet,AA,1,120
