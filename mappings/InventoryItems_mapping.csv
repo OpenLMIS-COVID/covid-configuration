@@ -7,6 +7,5 @@ serialNumber,equipmentTrackingId,DIRECT,,
 referenceName,referenceName,DIRECT,,
 yearOfInstallation,yearOfInstallation,USE_DEFAULT,,2020
 functionalStatus,functionalStatus,USE_DEFAULT,,FUNCTIONING
-reasonNotWorkingOrNotInUse,reasonNotWorkingOrNotInUse,USE_DEFAULT,,null
 utilization,utilization,USE_DEFAULT,,ACTIVE
 additionalNotes,additionalNotes,DIRECT,,
