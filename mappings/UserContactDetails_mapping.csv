@@ -1,0 +1,6 @@
+from,to,type,entityName,default
+username,referenceDataUserId,TO_ID_BY_USERNAME,,
+phoneNumber,phoneNumber,DIRECT,,
+email,email,DIRECT,,
+allowNotify,allowNotify,DIRECT,,
+emailVerified,emailVerified,DIRECT,,
