@@ -1,0 +1,13 @@
+username,password,role,enabled
+hsrmanager1,,USER,TRUE
+hofficer1,,USER,TRUE
+lbmanager1,,USER,TRUE
+wmanager1,,USER,TRUE
+npharmacist1,,USER,TRUE
+nstakeholder1,,USER,TRUE
+hsrmanager2,,USER,TRUE
+hofficer2,,USER,TRUE
+lbmanager2,,USER,TRUE
+wmanager2,,USER,TRUE
+npharmacist2,,USER,TRUE
+nstakeholder2,,USER,TRUE
