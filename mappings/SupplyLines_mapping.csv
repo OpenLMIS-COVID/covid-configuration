@@ -1,5 +1,5 @@
 from,to,type,entityName,defaultValue
 supervisoryNode,supervisoryNode,TO_OBJECT_BY_CODE,SupervisoryNode,
 description,description,DIRECT,,
-program,program,USE_DEFAULT,,"{“code”:”COVID”,”active”:”true”}"
+program,program,USE_DEFAULT_OBJECT,,COVID
 supplyingFacility,supplyingFacility,TO_OBJECT_BY_CODE,Facility,

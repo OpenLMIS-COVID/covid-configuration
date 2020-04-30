@@ -1,3 +1,3 @@
-supervisoryNode,description,program,supplyingFacility
-BLK,Supply line for Balaka District,,FAC03
-LL,Supply line for Lilongwe District,,FAC07
+supervisoryNode,description,supplyingFacility
+BLK,Supply line for Balaka District,FAC03
+LL,Supply line for Lilongwe District,FAC07
