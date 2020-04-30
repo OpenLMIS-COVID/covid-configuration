@@ -4,4 +4,4 @@ name,name,DIRECT,,
 description,description,USE_DEFAULT,,RG for COVID
 code,supervisoryNode,TO_OBJECT_BY_CODE,SupervisoryNode,
 code,memberFacilities,TO_ARRAY_FROM_FILE_BY_GEOGRAPHIC_ZONE,Facilities.csv,
-,requisitionGroupProgramSchedules,USE_DEFAULT,,[RGPS1]
+requisitionGroupProgramSchedules,requisitionGroupProgramSchedules,DEFAULT_TO_ARRAY_FROM_FILE_BY_CODE,,[RGPS1]
