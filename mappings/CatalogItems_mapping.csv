@@ -6,4 +6,5 @@ manufacturer,manufacturer,DIRECT,,
 model,model,DIRECT,,
 energySource,energySource,USE_DEFAULT,,ELECTRIC
 storageTemperature,storageTemperature,USE_DEFAULT,,ZERO
+visibleInCatalog,visibleInCatalog,USE_DEFAULT,,true
 archived,archived,USE_DEFAULT,,false
