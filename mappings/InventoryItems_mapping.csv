@@ -8,4 +8,9 @@ referenceName,referenceName,DIRECT,,
 yearOfInstallation,yearOfInstallation,USE_DEFAULT,,2020
 functionalStatus,functionalStatus,USE_DEFAULT,,FUNCTIONING
 utilization,utilization,USE_DEFAULT,,ACTIVE
+voltageStabilizer,voltageStabilizer,USE_DEFAULT,,
+backupGenerator,backupGenerator,USE_DEFAULT,,
+voltageRegulator,voltageRegulator,USE_DEFAULT,,
+manualTemperatureGauge,manualTemperatureGauge,USE_DEFAULT,,
+remoteTemperatureMonitor,remoteTemperatureMonitor,USE_DEFAULT,,
 additionalNotes,additionalNotes,DIRECT,,
