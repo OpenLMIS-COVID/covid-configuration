@@ -1,6 +1,6 @@
 from,to,type,entityName,defaultValue
-code,code,DIRECT,,
-code,facility,TO_OBJECT_BY_CODE,Facility,
+parent,code,DIRECT,,
+parent,facility,TO_OBJECT_BY_CODE,Facility,
 name,name,DIRECT,,
 description,description,USE_DEFAULT,,District Approval for COVID
 parent,parentNode,USE_DEFAULT,,
