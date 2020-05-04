@@ -4,4 +4,4 @@ parent,name,DIRECT,,
 description,description,USE_DEFAULT,,RG for COVID
 parent,supervisoryNode,TO_OBJECT_BY_CODE,SupervisoryNode,
 memberFacilities,memberFacilities,TO_ARRAY_BY_CODE,Facility,
-requisitionGroupProgramSchedules,requisitionGroupProgramSchedules,DEFAULT_TO_ARRAY_FROM_FILE_BY_CODE,,[RGPS1]
+requisitionGroupProgramSchedules,requisitionGroupProgramSchedules,DEFAULT_TO_ARRAY_FROM_FILE_BY_CODE,RequisitionGroupProgramSchedules.csv,RGPS1
