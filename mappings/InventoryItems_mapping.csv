@@ -11,6 +11,6 @@ utilization,utilization,USE_DEFAULT,,ACTIVE
 voltageStabilizer,voltageStabilizer,USE_DEFAULT,,UNKNOWN
 backupGenerator,backupGenerator,USE_DEFAULT,,UNKNOWN
 voltageRegulator,voltageRegulator,USE_DEFAULT,,UNKNOWN
-manualTemperatureGauge,manualTemperatureGauge,USE_DEFAULT,,UNKNOWN
-remoteTemperatureMonitor,remoteTemperatureMonitor,USE_DEFAULT,,UNKNOWN
+manualTemperatureGauge,manualTemperatureGauge,USE_DEFAULT,,NO_GAUGE
+remoteTemperatureMonitor,remoteTemperatureMonitor,USE_DEFAULT,,NO_RTM
 additionalNotes,additionalNotes,DIRECT,,
