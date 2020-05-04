@@ -1,23 +1,23 @@
 code,roleName,programCode,supervisoryNodeCode,warehouseCode
-RA1,Stock Manager,COVID,BLK,null
-RA2,Storeroom Manager,COVID,BLK,null
-RA3,Equipment Manager,COVID,BLK,null
+RA1,Stock Manager,COVID,BLKd,null
+RA2,Storeroom Manager,COVID,BLKd,null
+RA3,Equipment Manager,COVID,BLKd,null
 RA4,Report Viewer,null,null,null
-RA5,Stock Viewer,COVID,BLK,null
-RA6,District Storeroom Manager,COVID,BLK,null
+RA5,Stock Viewer,COVID,BLKd,null
+RA6,District Storeroom Manager,COVID,BLKd,null
 RA7,Order Manager,null,null,FAC03
-RA8,Equipment Viewer,COVID,BLK,null
-RA9,PoD Manager,COVID,BLK,null
+RA8,Equipment Viewer,COVID,BLKd,null
+RA9,PoD Manager,COVID,BLKd,null
 RA10,Equipment Catalog Manager,null,null,null
 RA11,Shipment Manager,null,null,FAC03
-RA12,Storeroom Manager,COVID,LL,null
-RA13,District Storeroom Manager,COVID,LL,null
-RA14,Stock Manager,COVID,LL,null
-RA15,Equipment Manager,COVID,LL,null
+RA12,Storeroom Manager,COVID,LLd,null
+RA13,District Storeroom Manager,COVID,LLd,null
+RA14,Stock Manager,COVID,LLd,null
+RA15,Equipment Manager,COVID,LLd,null
 RA16,Report Viewer,null,null,null
-RA17,Stock Viewer,COVID,LL,null
+RA17,Stock Viewer,COVID,LLd,null
 RA18,Order Manager,null,null,FAC07
 RA19,Equipment Catalog Manager,null,null,null
-RA20,Equipment Viewer,COVID,LL,null
-RA21,PoD Manager,COVID,LL,null
+RA20,Equipment Viewer,COVID,LLd,null
+RA21,PoD Manager,COVID,LLd,null
 RA22,Shipment Manager,null,null,FAC07
