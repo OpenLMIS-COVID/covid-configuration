@@ -1,0 +1,12 @@
+name,reasonCategory,reasonType,isFreeTextAllowed
+Negative Adjustment,ADJUSTMENT,DEBIT,true
+Positive Adjustment,ADJUSTMENT,CREDIT,true
+Expired,ADJUSTMENT,DEBIT,true
+Receive,TRANSFER,CREDIT,false
+Issue,TRANSFER,DEBIT,false
+Donation,TRANSFER,CREDIT,true
+Positive Mathematical Error,ADJUSTMENT,CREDIT,true
+Negative Mathematical Error,ADJUSTMENT,DEBIT,true
+Damaged,ADJUSTMENT,DEBIT,true
+Lost,ADJUSTMENT,DEBIT,true
+Found,ADJUSTMENT,CREDIT,true

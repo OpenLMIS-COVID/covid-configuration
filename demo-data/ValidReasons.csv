@@ -1,0 +1,40 @@
+facilityType,reason,hidden
+centH,Negative Adjustment,false
+centH,Positive Adjustment,false
+centH,Expired,false
+centH,Receive,false
+centH,Issue,false
+centH,Donation,false
+centH,Positive Mathematical Error,true
+centH,Negative Mathematical Error,true
+centH,Damaged,false
+centH,Lost,false
+centH,Found,false
+centH,Beginning Balance Excess,true
+centH,Beginning Balance Insufficiency,true
+privC,Negative Adjustment,false
+privC,Positive Adjustment,false
+privC,Expired,false
+privC,Receive,false
+privC,Issue,false
+privC,Donation,false
+privC,Positive Mathematical Error,true
+privC,Negative Mathematical Error,true
+privC,Damaged,false
+privC,Lost,false
+privC,Found,false
+privC,Beginning Balance Excess,true
+privC,Beginning Balance Insufficiency,true
+privH,Negative Adjustment,false
+privH,Positive Adjustment,false
+privH,Expired,false
+privH,Receive,false
+privH,Issue,false
+privH,Donation,false
+privH,Positive Mathematical Error,true
+privH,Negative Mathematical Error,true
+privH,Damaged,false
+privH,Lost,false
+privH,Found,false
+privH,Beginning Balance Excess,true
+privH,Beginning Balance Insufficiency,true
