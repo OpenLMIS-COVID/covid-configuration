@@ -1,10 +1,10 @@
 code,name,description,geographicZone,facilityType,facilityOperator,goLiveDate
-FAC01,Facility1,,BLK,privC,G,1/5/2020
-FAC02,Facility2,,BLK,privH,pvt,
-FAC03,Facility3,,BLK,warehouse,,
-BLKd,Facility BLK,,BLK,dist,G,
-FAC04,Facility4,,LL,centH,G,
-FAC05,Facility5,,LL,privC,pvt,
-FAC06,Facility6,,LL,privH,pvt,
-FAC07,Facility7,,LL,warehouse,,
-LLd,Facility LL,,LL,dist,G,
+FAC01,Balaka Private Clinic,,BLK,privC,G,1/5/2020
+FAC02,Balaka Private Hospital,,BLK,privH,pvt,
+FAC03,Balaka Warehouse,,BLK,warehouse,,
+BLKd,Balaka,,BLK,dist,G,
+FAC04,Lilongwe Central Hospital,,LL,centH,G,
+FAC05,Lilongwe Private Clinic,,LL,privC,pvt,
+FAC06,Lilongwe Private Hospital,,LL,privH,pvt,
+FAC07,Lilongwe Warehouse,,LL,warehouse,,
+LLd,Lilongwe,,LL,dist,G,
