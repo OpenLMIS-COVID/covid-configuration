@@ -1,6 +1,8 @@
 facilityTypeCode,destination
-privC,COVID privC Organization
-privH,COVID privH Organization
-centH,COVID centH Organization
-warehouse,Balaka Warehouse Organization
-warehouse,Lilongwe Warehouse Organization
+privC,Balaka Private Clinic
+privH,Balaka Private Hospital
+warehouse,Balaka Warehouse
+privC,Lilongwe Private Clinic
+privH,Lilongwe Private Hospital
+centH,Lilongwe Central Hospital
+warehouse,Lilongwe Warehouse
