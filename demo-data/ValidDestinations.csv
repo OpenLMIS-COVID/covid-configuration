@@ -1,6 +1,6 @@
 facilityTypeCode,destination
-privC,COVID Organization
-privH,COVID Organization
-centH,COVID Organization
-warehouse,Balaka Warehouse
-warehouse,Lilongwe Warehouse
+privC,COVID privC Organization
+privH,COVID privH Organization
+centH,COVID centH Organization
+warehouse,Balaka Warehouse Organization
+warehouse,Lilongwe Warehouse Organization
