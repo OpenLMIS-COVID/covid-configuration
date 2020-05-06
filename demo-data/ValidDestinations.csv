@@ -1,8 +1,8 @@
 facilityTypeCode,destination
-privC,Balaka Private Clinic
-privH,Balaka Private Hospital
-warehouse,Balaka Warehouse
-privC,Lilongwe Private Clinic
-privH,Lilongwe Private Hospital
-centH,Lilongwe Central Hospital
-warehouse,Lilongwe Warehouse
+privC,FAC01
+privH,FAC02
+warehouse,FAC03
+privC,FAC05
+privH,FAC06
+centH,FAC04
+warehouse,FAC07
