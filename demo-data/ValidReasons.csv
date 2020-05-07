@@ -12,6 +12,8 @@ centH,Lost,false
 centH,Found,false
 centH,Beginning Balance Excess,true
 centH,Beginning Balance Insufficiency,true
+centH,Consumed,true
+centH,Receipts,true
 privC,Negative Adjustment,false
 privC,Positive Adjustment,false
 privC,Expired,false
@@ -25,6 +27,8 @@ privC,Lost,false
 privC,Found,false
 privC,Beginning Balance Excess,true
 privC,Beginning Balance Insufficiency,true
+privC,Consumed,true
+privC,Receipts,true
 privH,Negative Adjustment,false
 privH,Positive Adjustment,false
 privH,Expired,false
@@ -38,3 +42,5 @@ privH,Lost,false
 privH,Found,false
 privH,Beginning Balance Excess,true
 privH,Beginning Balance Insufficiency,true
+privH,Consumed,true
+privH,Receipts,true

@@ -10,3 +10,5 @@ Negative Mathematical Error,ADJUSTMENT,DEBIT,true
 Damaged,ADJUSTMENT,DEBIT,true
 Lost,ADJUSTMENT,DEBIT,true
 Found,ADJUSTMENT,CREDIT,true
+Consumed,ADJUSTMENT,DEBIT,false
+Receipts,ADJUSTMENT,CREDIT,false
