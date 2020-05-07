@@ -1,5 +1,8 @@
 facilityTypeCode,facilityCode,organizationName
-privC,,COVID Organization
-privH,,COVID Organization
-centH,,COVID Organization
-warehouse,,COVID Organization
+privC,FAC01,
+privH,FAC02,
+warehouse,FAC03,
+privC,FAC05,
+privH,FAC06,
+centH,FAC04,
+warehouse,FAC07,
