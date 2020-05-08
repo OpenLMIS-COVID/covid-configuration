@@ -6,7 +6,7 @@ warehousemanager1,Kennedy,Banda,,FAC03,TRUE,TRUE,TRUE,TRUE,"[RA7,RA9,RA4,RA5,RA8
 nationalpharmacist1,Joses,Salazar,,FAC01,TRUE,TRUE,TRUE,TRUE,"[RA8,RA5,RA4]"
 nationalstakeholder1,Tito,Chaves,,FAC01,TRUE,TRUE,TRUE,TRUE,"[RA8,RA5,RA4]"
 pharmacist2,Adriano,Pereira,,FAC04,TRUE,TRUE,TRUE,TRUE,"[RA14,RA12,RA15,RA16]"
-healthofficer2,Clara,Rosario,,FAC04,TRUE,TRUE,TRUE,TRUE,"[RA17,RA13,RA18,RA20]"
+healthofficer2,Clara,Rosario,,FAC07,TRUE,TRUE,TRUE,TRUE,"[RA17,RA13,RA18,RA20,RA22]"
 labmanager2,Angeslica,Vargas,,FAC04,TRUE,TRUE,TRUE,TRUE,"[RA14,RA12,RA16,RA17,RA20]"
 warehousemanager2,Diogo,Coelho,,FAC07,TRUE,TRUE,TRUE,TRUE,"[RA18,RA21,RA16,RA17,RA20]"
 nationalpharmacist2,Toni,Lobo,,FAC04,TRUE,TRUE,TRUE,TRUE,"[RA20,RA17,RA16]"
