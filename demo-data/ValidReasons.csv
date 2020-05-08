@@ -44,3 +44,18 @@ privH,Beginning Balance Excess,true
 privH,Beginning Balance Insufficiency,true
 privH,Consumed,true
 privH,Receipts,true
+warehouse,Negative Adjustment,false
+warehouse,Positive Adjustment,false
+warehouse,Expired,false
+warehouse,Receive,false
+warehouse,Issue,false
+warehouse,Donation,false
+warehouse,Positive Mathematical Error,true
+warehouse,Negative Mathematical Error,true
+warehouse,Damaged,false
+warehouse,Lost,false
+warehouse,Found,false
+warehouse,Beginning Balance Excess,true
+warehouse,Beginning Balance Insufficiency,true
+warehouse,Consumed,true
+warehouse,Receipts,true
