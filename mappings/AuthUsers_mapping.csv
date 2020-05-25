@@ -4,4 +4,3 @@ username,username,DIRECT,,
 password,password,USE_DEFAULT,,password
 role,role,DIRECT,,
 enabled,enabled,DIRECT,,
-email,email,DIRECT,,
