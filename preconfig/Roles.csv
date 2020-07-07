@@ -10,4 +10,5 @@ Equipment Viewer,Can view equipment inventory.,[CCE_INVENTORY_VIEW]
 PoD Manager,Can view and manage proofs of delivery.,"[PODS_VIEW,PODS_MANAGE]"
 Equipment Catalog Manager,Can view and manage equipment catalog.,[CCE_MANAGE]
 Shipment Manager,Can view and edit shipments.,"[SHIPMENTS_VIEW,SHIPMENTS_EDIT]"
+Superset Viewer,Can view requisitions.,[REQUISITION_VIEW]
 PCMT Integration manager,Can manage PCMT integrations.,"[PCMT_MANAGEMENT]"
